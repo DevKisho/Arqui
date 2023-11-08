@@ -4,7 +4,8 @@ Todo sobre el ramo de Arqui
 
 # PROGRAMAS A UTILIZAR EN ESTE RAMO (para que vayan buscando cómo instalarlo)
 
-- [Logisim](https://sourceforge.net/projects/circuit/)  
+- [Logisim](https://sourceforge.net/projects/circuit/)
+- ![imagen](https://github.com/DevKisho/Arqui/assets/150161404/4bd0097f-967f-4474-bb72-554879f20db3)
 - [QtARMSim](https://pypi.org/project/qtarmsim/)
 
 
