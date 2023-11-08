@@ -5,8 +5,10 @@ Todo sobre el ramo de Arqui
 # PROGRAMAS A UTILIZAR EN ESTE RAMO (para que vayan buscando cómo instalarlo)
 
 - [Logisim](https://sourceforge.net/projects/circuit/)
-- ![imagen](https://github.com/DevKisho/Arqui/assets/150161404/4bd0097f-967f-4474-bb72-554879f20db3)
+![imagen](https://github.com/DevKisho/Arqui/assets/150161404/b5b59f8a-36f7-4f35-bc31-fbea9621d0cc)
+
 - [QtARMSim](https://pypi.org/project/qtarmsim/)
+![imagen](https://github.com/DevKisho/Arqui/assets/150161404/33cae3cd-5ac2-4abf-9cc2-2e596aba574a)
 
 
 Vas a utilizar Logisim para hacer circuitos combinacionales y secuenciales. 
